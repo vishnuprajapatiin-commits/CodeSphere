@@ -3,13 +3,6 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     margin: 0;
 }
-header {
-    background-color: #1b3c59;
-}
-
-h1 {
-    color: white;
-}
 main{
     background-color: white;
     max-width: 900px;
@@ -75,7 +68,7 @@ ul{
 hr{
     margin-top: 30px;
     margin-bottom: 30px;
-    color: #c2c2c2
+    color: #c2c2c2;
 }
 footer{
     background-color: #1b3c59;
